@@ -1,0 +1,24 @@
+main {
+    display: flex;
+    background-color: rgb(120, 238, 209);
+    max-width: 310px;
+    margin: auto;
+}
+main section form fieldset h2 {
+    text-align: center;
+    line-height: 0;
+    font-size: 2em;
+}
+input[type="submit"] {
+    width: 100%;
+    padding: 15px 30px;
+    color: #ee3838;
+    Border-radius: 900px;
+}
+#temp-c {  border-radius: 5px; 
+}
+#temp-f {  border-radius: 5px; 
+}
+#temp-k {  border-radius: 5px; 
+}
+#temp-r {  border-radius: 5px; }
